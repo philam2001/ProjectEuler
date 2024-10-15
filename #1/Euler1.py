@@ -14,7 +14,7 @@ def multiples_sum(upperbound, multiples1, multiples2):
 
     return sum1 + sum2 - sum3
 
-
+# OOP
 class MultiplesSumCalculator:
     def __init__(self, upperbound, multiples1, multiples2):
         self.upperbound = upperbound
